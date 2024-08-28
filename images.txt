@@ -1,1 +1,2 @@
-localai/localai:v2.20.1-cublas-cuda12
+localai/localai:latest-aio-gpu-nvidia-cuda-12
+
