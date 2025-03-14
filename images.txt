@@ -1,1 +1,1 @@
-conardli17/easy-dataset:latest
+ubuntu:22.04
