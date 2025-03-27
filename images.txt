@@ -1,1 +1,1 @@
-ubuntu:22.04
+qwenllm/qwen-omni:2.5-cu121
