@@ -1,1 +1,1 @@
-qwenllm/qwen-omni:2.5-cu121
+ --platform linux/arm64 minio/minio:RELEASE.2025-04-08T15-41-24Z-cpuv1
