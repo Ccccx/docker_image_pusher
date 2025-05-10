@@ -1,1 +1,2 @@
- --platform linux/arm64/v8 redis:7.4.2
+--platform linux/arm64 nacos/nacos-server:2.5.1
+
